@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(89, 238, 255);
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h2 {
+    font-family: 'Short Stack', cursive;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(61, 61,61);
+}
+.linkbar {
+    background: rgba(0, 0, 0, 0.60);
+    padding: 10px;
+}
+.headerlinks {
+    padding: 0px 10px 0px 10px;
+    display: inline;
+}
+header{
+    text-align: center;
+	background: url(http://ahdzbook.com/data/out/18/hdwp695458118.png);
+    background-size: cover;
+    padding:20px 0px 0px 0px;
+    color: rgb(244, 244, 244);
+}
+h1 {
+    font-size: 90px;
+}
+h3 {
+    color: rgb(61, 61,61);
+}
+#header-pic {
+    margin: 40px 0px 0px 0px;
+    border: 10px solid black;
+    border-radius: 40px;
+}
+p {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px 0px 0px 20px;
+    color: rgb(61, 61,61);
+}
+img {
+    border: 5px dashed rgb(244, 244, 244);
+    margin: 50px, 0px, 0px, 50px;
+}
+a {
+    color: rgb(244, 244, 244);
+}
+iframe {
+    margin: 40px 0px 0px 0px;
+}
+table {
+    margin-left: 100px;
+}
+th {
+    background-color:rgb(131, 187, 193);
+    color: rgb(244, 244, 244);
+    border: 3px solid rgb(61, 61,61);
+}
+td {
+    background-color:rgb(8, 126, 139);
+    border: 3px solid rgb(61, 61,61);
+    color: rgb(244, 244, 244);
+}
