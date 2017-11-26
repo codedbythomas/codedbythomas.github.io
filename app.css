@@ -47,7 +47,7 @@ p {
 img {
     border: 5px dashed rgb(244, 244, 244);
     margin: 50px, 0px, 0px, 50px;
-    margin-left: 40px;
+    margin-left: 100px;
 }
 a {
     color: rgb(244, 244, 244);
@@ -71,4 +71,5 @@ td {
 .equationpics }
     margin-left: 10px;
     margin-right: 10px;
+    border: 5px solid rgba(0,0,0,0);;
 }
