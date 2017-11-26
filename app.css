@@ -73,3 +73,6 @@ td {
     margin-right: 10px;
     border: 5px solid rgba(0,0,0,0);;
 }
+li {
+    font-family: 'Ubuntu', sans-serif;
+}
