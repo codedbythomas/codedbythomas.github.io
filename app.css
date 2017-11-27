@@ -35,7 +35,7 @@ h3 {
 }
 #header-pic {
     margin: 40px 0px 0px 0px;
-    border: 10px solid black;
+    border: 10px solid rgb(61, 61, 61);
     border-radius: 40px;
 }
 p {
