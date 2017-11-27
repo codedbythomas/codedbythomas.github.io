@@ -21,13 +21,16 @@ h2 {
 }
 header{
     text-align: center;
-	background: url(images/headerimage.png);
+    background: url(images/headerimage.png);
     background-size: cover;
     padding:20px 0px 0px 0px;
     color: rgb(244, 244, 244);
 }
 h1 {
     font-size: 90px;
+}
+h2 {
+    color: rgb(61, 61,61);
 }
 h3 {
     color: rgb(61, 61,61);
@@ -42,7 +45,7 @@ p {
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px 0px 0px 20px;
-    color: rgb(61, 61,61);
+    color: rgb(61, 61, 61);
 }
 img {
     margin: 50px, 0px, 0px, 50px;
@@ -73,4 +76,5 @@ td {
 }
 li {
     font-family: 'Ubuntu', sans-serif;
+    color: rgb(61, 61, 61);
 }
