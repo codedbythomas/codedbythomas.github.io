@@ -78,3 +78,6 @@ li {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(61, 61, 61);
 }
+.borderpics {
+    border: 5px dashed rgb(244, 244, 244);
+}
